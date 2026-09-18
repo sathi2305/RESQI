@@ -1,0 +1,6 @@
+{
+  "name": "ResQ AI - Emergency Response Platform",
+  "description": "Real-time disaster and emergency response platform connecting vetted volunteers with those in need, featuring AI-assisted triage, live incident radar, and emergency coordination.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
